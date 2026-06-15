@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Fredericka the Great";
+  src: url("/src/assets/FrederickatheGreat-Regular.ttf") format("woff2");
+  font-display: swap;
+}
+
+html {
+  scroll-behavior: smooth;
+}
