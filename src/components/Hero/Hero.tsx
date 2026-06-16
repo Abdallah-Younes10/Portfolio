@@ -16,7 +16,7 @@ export const Hero = () => {
         <HeroText />
         <div className="flex gap-4 ml-8">
           <button className="px-8 py-3 rounded-md bg-cyan-500 text-black font-bold hover:scale-105 transition">
-            <a href="/public/Younes_cv.pdf" download>
+            <a href="/Younes_cv.pdf" download>
             Download CV
             </a>
           </button>
