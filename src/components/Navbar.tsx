@@ -137,7 +137,7 @@ export function Navbar() {
               clipPath: "polygon(10% 0%,100% 0%,90% 100%,0% 100%)",
             }}
           >
-            <a href="../../public/Younes_cv.pdf" download>
+            <a href="/Younes_cv.pdf" download>
               Resume
             </a>
             
